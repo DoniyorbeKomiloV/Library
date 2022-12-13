@@ -1,4 +1,4 @@
-package project.librarydemo;
+package project.LibraryDemo;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

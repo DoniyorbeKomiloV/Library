@@ -1,4 +1,4 @@
-package project.librarydemo;
+package project.LibraryDemo;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

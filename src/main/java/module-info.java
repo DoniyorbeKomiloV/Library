@@ -6,6 +6,6 @@ module project.librarydemo {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens project.librarydemo to javafx.fxml;
-    exports project.librarydemo;
+    opens project.LibraryDemo to javafx.fxml;
+    exports project.LibraryDemo;
 }
